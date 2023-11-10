@@ -1,0 +1,38 @@
+1|New Music Dublin|2024-03-04|18:00|National Concert Hall|Dublin|Dublin|Adu Big Band|Jazz|None|0861122321|Wheelchair|30
+6|Music Of The Spheres|2024-08-29|20:00|Croke Park|Dublin|Dublin|Coldplay|Rock|+11|013534444|Wheelchair|115
+5|Christmas Tunes|2023-12-18|12:00|Christmas Market|Kilkenny|Kilkenny|Lolli Pop, Coldplay|Rock, Pop|None|0876677323|Wheelchair|Free
+9|Boombox|2025-11-20|20:30|44|Malahide|Dublin|Boombox|hip-hop|+11|2221112020|Wheelchair|35
+11|Snarky Puppy Gig|2025-01-20|20:00|Music Hall|Malahide|Dublin|Snarky Puppy|jazz|+12|0031231221|wheelchair|30
+11|Snarky Puppy Gig|2025-01-20|20:00|Music Hall|Malahide|Dublin|Snarky Puppy|jazz|+12|0031231221|wheelchair|30
+12|Summer Festival|2023-06-15|17:30|City Park|Galway|Galway|Various Artists|Pop, Rock|None|0897654321|NA|20
+14|Reggae Jam|2024-09-05|21:00|Reggae Club|Cork|Cork|Reggae Vibes|Reggae|+18|0876543210|Wheelchair|25
+15|Acoustic Showcase|2023-05-12|19:00|Small Venue|Limerick|Limerick|Various Solo Artists|Acoustic|None|0854321098|NA|10
+16|Rocktober Fest|2024-10-15|16:30|Green Park|Sligo|Sligo|Rock Legends|Rock|+18|0712345678|Wheelchair|25
+17|Traditional Music Night|2023-08-07|20:00|The Irish Tavern|Waterford|Waterford|The Trad Folk Group|Folk|None|0832109876|NA|15
+18|Electronic Dance Party|2024-07-25|22:00|Electro Club|Donegal|Donegal|DJ ElectroBeats|Electronic|+18|0745678901|Wheelchair|20
+
+19|Indie Vibes|2023-04-30|19:30|Indie Lounge|Kerry|Kerry|Indie Collective|Indie|None|0665432109|NA|18
+20|Hip-Hop Revolution|2025-03-19|21:30|Urban Venue|Westmeath|Westmeath|MC Rhymes|Hip-Hop|+16|0909876543|Wheelchair|22
+21|Jazz & Blues Night|2023-07-28|19:00|Blues Bar|Louth|Louth|The Jazz Trio|Jazz, Blues|None|0867890123|NA|12
+22|Folk Festival|2024-08-12|18:30|Folk Park|Cavan|Cavan|Folk Harmony|Folk|None|0498765432|Wheelchair|20
+23|Reggae Beach Bash|2023-09-10|17:00|Beachfront|Mayo|Mayo|Reggae Rhythms|Reggae|+18|0987654321|NA|25
+24|Pop Extravaganza|2024-06-05|20:15|City Arena|Meath|Meath|Pop Sensations|Pop|None|0890123456|Wheelchair|22
+25|Classical Symphony|2023-11-28|19:45|Symphony Hall|Laois|Laois|Laois Symphony Orchestra|Classical|None|0571234567|NA|18
+1|New Music Dublin|2024-03-04|18:00|National Concert Hall|Dublin|Dublin|Adu Big Band|Jazz|None|0861122321|Wheelchair|30
+
+2|Wiclow Music Festival|2023-03-04|18:00|The Bridge Tavern|Wiclow|Wiclow|Lolli Pop, Sad Monkeys|Pop|+18|0861122321|Wheelchair|Free
+
+6|Music Of The Spheres|2024-08-29|20:00|Croke Park|Dublin|Dublin|Coldplay|Rock|+11|013534444|Wheelchair|115
+
+1|New Music Dublin|2024-03-04|18:00|National Concert Hall|Dublin|Dublin|Adu Big Band|Jazz|None|0861122321|Wheelchair|30
+2|Wiclow Music Festival|2023-03-04|18:00|The Bridge Tavern|Wiclow|Wiclow|Lolli Pop, Sad Monkeys|Pop|+18|0861122321|Wheelchair|Free
+3|Wiclow Music Festival|2023-03-04|18:00|The Bridge Tavern|Wiclow|Wiclow|Lolli Pop, Sad Monkeys|Pop|+18|0861122321|Wheelchair|Free
+4|Cork Dance Festival|2024-01-10|16:00|Cork Hall|Cork|Cork|Tiesto|Trance|+18|018889911|NA|110
+
+5|Christmas Tunes|2023-12-18|12:00|Christmas Market|Kilkenny|Kilkenny|Lolli Pop, Coldplay|Rock, Pop|None|0876677323|Wheelchair|Free
+6|Music Of The Spheres|2024-08-29|20:00|Croke Park|Dublin|Dublin|Coldplay|Rock|+11|013534444|Wheelchair|115
+7|Cork Dance Festival|2024-01-10|16:00|Cork Hall|Cork|Cork|Tiesto|Trance|+18|018889911|NA|110
+8|Cork Dance Festival|2024-01-10|16:00|Cork Hall|Cork|Cork|Tiesto|Trance|+18|018889911|NA|110
+9|Boombox|2025-11-20|20:30|44|Malahide|Dublin|Boombox|hip-hop|+11|2221112020|Wheelchair|35
+
+10|Wiclow Music Festival|2023-03-04|18:00|The Bridge Tavern|Wiclow|Wiclow|Lolli Pop, Sad Monkeys|Pop|+18|0861122321|Wheelchair|5

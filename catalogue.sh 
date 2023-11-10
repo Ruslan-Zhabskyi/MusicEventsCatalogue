@@ -1,0 +1,46 @@
+#!/bin/bash
+# AUTHOR: RUSLAN ZHABSKYI
+# DESCRIPTION: This script is designed to view and manage Music Catalogue
+# Video presentation link: https://youtu.be/QO3D_QZxYg8
+  
+echo -e "Welcome to the Music Catalogue"
+echo -e "\t\vYou can stop this program from running at any time by passing Q"
+
+while true; do
+  sleep 1  
+  echo -e "\v\e[34mMAIN MENU:\e[0m"
+  echo -e "\t1.View ALL Events"
+  echo -e "\t2.Search"
+  echo -e "\t3.Add Record"
+  echo -e "\t4.Remove Record"
+  echo -e "\t5.Exit"
+  read -p "Select an option: " answer
+
+# Check if the user wants to exit
+    if [ $answer == "Q" ] || [ $answer == "q" ]; then
+        break
+    fi
+
+  case $answer in
+        1)
+          ./viewAll.sh  
+          ;;
+        2)
+          ./searchRecords.sh
+          ;;
+        3)
+          ./addRecord.sh
+          ;;
+        4)
+          ./deleteRecord.sh
+          ;;
+        5)
+          echo "Exiting..."
+          exit 0
+          ;;
+        *)
+          echo "Invalid option. Please choose a valid menu option (example: 1)"
+          ;;
+  esac
+  
+done
